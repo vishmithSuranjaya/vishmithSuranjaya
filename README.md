@@ -1,7 +1,7 @@
 
 ![Vishmith Suranjaya](https://github.com/vishmithSuranjaya/vishmithSuranjaya/blob/main/Vishmith%20Suranjaya..png?raw=true)
 # 💫 About Me:
-Learning... Coding... Learning..
+NOTHING IS IMPOSSIBLE...
 
 
 ## 🌐 Socials:
