@@ -2,7 +2,7 @@
 ![Vishmith Suranjaya](https://github.com/vishmithSuranjaya/vishmithSuranjaya/blob/main/Vishmith%20Suranjaya.png?raw=true)
 # 💫 About Me:
 
-I am a passionate and curious Computer Science undergraduate following BSc. (Hons) in Computer Science and Technology and firmly believe that nothing is impossible. With a strong interest in software development, I enjoy building meaningful digital experiences where creativity meets functionality. I’m deeply intrigued by technologies like React.js and Python and Next.js, and I’m always striving to grow — not just as a developer, but as a thinker.
+I am a passionate and curious Computer Science undergraduate following BSc. (Hons) in Computer Science and Technology and firmly believe that nothing is impossible. With a strong interest in software development, I enjoy building meaningful digital experiences where creativity meets functionality. I’m deeply intrigued by technologies like React.js and Python and Next.js, and I’m always striving to grow not just as a developer, but as a thinker.
 
 Overthinking may be my habit, but I see it as a strength that lets me design with intention. As I journey forward,
 I live by my motto: </> push -ur limits — because growth begins where comfort ends.
